@@ -95,8 +95,6 @@ A short video demonstration of the amplifier performance is available above. The
 
 ## notes
 
-To open and simulate the circuit in LTspice
-
 To test the physical circuit:
 
 ```text
