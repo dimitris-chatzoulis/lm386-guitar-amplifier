@@ -2,7 +2,7 @@
 
 This repository documents a small **LM386-based guitar amplifier** with a **BF245C JFET input buffer**. The project includes the LTspice simulation, a discrete breadboard implementation, screenshots of the main simulation results, and a short performance video. 
 
-[Watch the performance video on Google Drive](https://drive.google.com/file/d/1cy1pMBwWEGLlc1JcR0GqombH3291XYgJ/view?usp=sharing)
+[Performance video on Google Drive](https://drive.google.com/file/d/1cy1pMBwWEGLlc1JcR0GqombH3291XYgJ/view?usp=sharing)
 
 ## Repository Tree
 
