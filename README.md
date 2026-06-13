@@ -27,7 +27,7 @@ External reference used for the original circuit:
 
 ## Schematic and Circuit Operation
 
-![schematic](images/ltspice_schematic.png)
+![schematic](images/schematic.png)
 
 The amplifier has three main sections:
 
