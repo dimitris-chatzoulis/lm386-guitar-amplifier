@@ -87,8 +87,6 @@ The amplifier has two main first-order high-pass sections. The output coupling c
 
 ![Breadboard close-up](images/breadboard_closeup.jpg)
 
-The physical version was built using discrete components on a breadboard.
-
 ![Test setup](images/test_setup.jpg)
 
 A short video demonstration of the amplifier performance is available above. The video shows the breadboard amplifier operating with the gain potentiometer set close to `10 kΩ`, which places the LM386 near its minimum gain setting and produces a cleaner output.
